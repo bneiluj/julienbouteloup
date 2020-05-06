@@ -1,8 +1,11 @@
 ## Hello I'm Julien Bouteloup 
 
-You can use the [editor on GitHub](https://github.com/bneiluj/julienbouteloup/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Social activity
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Stackoverflow](https://stackoverflow.com/users/3883911/julien-bouteloup)
+[Twitter](https://twitter.com/bneiluj)
+[Linkedin](https://www.linkedin.com/in/jbouteloup/)
+
 
 ### Markdown
 
