@@ -2,9 +2,9 @@
 
 ### Social activity
 
-[Stackoverflow](https://stackoverflow.com/users/3883911/julien-bouteloup)
-[Twitter](https://twitter.com/bneiluj)
-[Linkedin](https://www.linkedin.com/in/jbouteloup/)
+- [Stackoverflow](https://stackoverflow.com/users/3883911/julien-bouteloup)
+- [Twitter](https://twitter.com/bneiluj)
+- [Linkedin](https://www.linkedin.com/in/jbouteloup/)
 
 
 ### Markdown
