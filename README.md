@@ -12,3 +12,5 @@ Developer. Blockchain. Security Audits. Arbitrage. White hacker. Ex Trader. I br
 - Medium [@bneiluj](https://medium.com/@bneiluj)
 
 ### Personal page
+
+https://bneiluj.github.io/julienbouteloup/
